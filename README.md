@@ -1,3 +1,4 @@
+Agricultural Market Segmentation and Analysis
 📌 Overview This project applies machine learning clustering techniques to segment Indian agricultural markets based on pricing data. The analysis helps identify market patterns, pricing trends, and geographic segmentation to optimize agricultural trade and decision-making.
 
 📂 Dataset The dataset used for this study contains:
